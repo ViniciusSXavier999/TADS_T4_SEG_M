@@ -23,24 +23,28 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 * [Replit](https://www.repl.it/) - Desenvolvimento de códigos online em várias linguagens
 * [Framework Bootstrap](https://getbootstrap.com/) - *Framework* para desenvolvimento de *Front-End*
 * [LightShot](https://prnt.sc/) - Compartilhar **Print** de Tela Online
-+ [Gartner Group](https://www.gartner.com/en)
-+ [Forbes](https://forbes.com.br/)
-+ [Medium](https://medium.com/)
-+ [Canaltech](https://canaltech.com.br/)
+* [Gartner Group](https://www.gartner.com/en)
+* [Forbes](https://forbes.com.br/)
+* [Medium](https://medium.com/)
+* [Canaltech](https://canaltech.com.br/)
 
-## Cursos de Certificações Gratuitas
-+ [CertiProf](https://certiprof.com/) - Certificações (Scrum e Devops estão gratuitos)
-+ [Mackenzie cursos gratuitos](https://www.mackenzie.br/noticias/artigo/n/a/i/mackenzie-disponibiliza-14-cursos-livres-gratuitos-com-certificacao/)
-+ [Goal Kicker](https://goalkicker.com/) - Diversos eBooks completos sobre programação (Gratuito)
-+ [IBM Watson](https://www.ibm.com/watson/br-pt/) - Plataforma de Inteligência Artifical da IBM (Gratuito para testes)
-+ Datascience Academy - Cursos sobre Ciência de Dados gratuitos e com certificado
-	+ [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
-	+ [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-	+ [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
-	+ [Inteligência Artificial Fundamentos](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos)
-	+ [Microsoft Power BI Para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)
-+ [Curso de Apache Spark](https://youtu.be/F8pyaR4uQ2g) - (Inglês)
-+ [Curso de Apache Hadoop + Big Data](https://youtu.be/1vbXmCrkT3Y) (Inglês)
+## Cursos Gratuitos
+* [Cursos de PHP](https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) - (Português)
+* [Curso de Apache Spark](https://youtu.be/F8pyaR4uQ2g) - (Inglês)
+* [Curso de Apache Hadoop + Big Data](https://youtu.be/1vbXmCrkT3Y) (Inglês)
+* Datascience Academy - Cursos sobre Ciência de Dados gratuitos e com certificado
+	* [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
+	* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+	* [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
+	* [Inteligência Artificial Fundamentos](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos)
+	* [Microsoft Power BI Para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)
+
+## Certificações
+* [CertiProf](https://certiprof.com/) - Certificações (Scrum e Devops estão gratuitos)
+* [Mackenzie cursos gratuitos](https://www.mackenzie.br/noticias/artigo/n/a/i/mackenzie-disponibiliza-14-cursos-livres-gratuitos-com-certificacao/)
+* [Goal Kicker](https://goalkicker.com/) - Diversos eBooks completos sobre programação (Gratuito)
+* [IBM Watson](https://www.ibm.com/watson/br-pt/) - Plataforma de Inteligência Artifical da IBM (Gratuito para testes)
+
 
 ## Canais no Youtube interessantes
 + [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Vídeos sobre tecnologia de forma geral
