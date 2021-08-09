@@ -20,7 +20,7 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 * [Awardspace](https://www.awardspace.com/) - Para aqueles que não tiverem computador para o desenvolvimento da disciplina, neste site poderá ser criada uma conta e todos as aulas poderão ser realizadas utilizando os recursos gratuitos disponíveis.
 
 ## Links Gerais
-* [Replit](https://www.repl.it/) - Desenvolvimento de códigos Java Online (Não substitui o Netbeans)
+* [Replit](https://www.repl.it/) - Desenvolvimento de códigos online em várias linguagens
 * [Framework Bootstrap](https://getbootstrap.com/) - *Framework* para desenvolvimento de *Front-End*
 * [LightShot](https://prnt.sc/) - Compartilhar **Print** de Tela Online
 + [Gartner Group](https://www.gartner.com/en)
