@@ -19,6 +19,11 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 ## Hospedagem PHP Gratuita
 * [Awardspace](https://www.awardspace.com/) - Para aqueles que não tiverem computador para o desenvolvimento da disciplina, neste site poderá ser criada uma conta e todos as aulas poderão ser realizadas utilizando os recursos gratuitos disponíveis.
 
+## Livros Gerais
+Acessar, via Central do Aluno, a Biblioteca Digital da Uninove. Lá você encontrará diversos livros sobre tecnologia para estudos e tudo gratuito.
+
+Basta utilizar seu RA e Senha de acesso da Central do Aluno.
+
 ## Links Gerais
 * [Replit](https://www.repl.it/) - Desenvolvimento de códigos online em várias linguagens
 * [Framework Bootstrap](https://getbootstrap.com/) - *Framework* para desenvolvimento de *Front-End*
