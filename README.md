@@ -17,7 +17,8 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 * [Tutorial](https://github.com/EdsonMSouza/tutorial_lamp_virtualbox) - Instalação do ambiente com VirtualBox-Linux-PHP-MySQL.
 
 ## Repositório de Códigos (Github)
-* [Tutorial](https://github.com/geracaoti/comandos-git)
+* [Tutorial mModo Texto](https://github.com/geracaoti/comandos-git) - Tutorial do Prof. Daniel Ferreira sobre como trabalhar com comandos do **Git** e do **Github**
+* [Tutorial em Vídeo](https://www.youtube.com/playlist?list=PL_8ohcSRpGqnyzGLiq1F29cbg_mQ-qN3Z) - Vídeos do prof. Edson Melo sobre o Github.
 
 ## Hospedagem PHP Gratuita
 * [Awardspace](https://www.awardspace.com/) - Para aqueles que não tiverem computador para o desenvolvimento da disciplina, neste site poderá ser criada uma conta e todos as aulas poderão ser realizadas utilizando os recursos gratuitos disponíveis.
