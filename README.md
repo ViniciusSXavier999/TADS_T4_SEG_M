@@ -20,6 +20,8 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 * [Tutorial Modo Texto](https://github.com/geracaoti/comandos-git) - Tutorial do Prof. Daniel Ferreira sobre como trabalhar com comandos do **Git** e do **Github**
 * [Tutorial em Vídeo](https://www.youtube.com/playlist?list=PL_8ohcSRpGqnyzGLiq1F29cbg_mQ-qN3Z) - Vídeos do prof. Edson Melo sobre o Github.
 
+## Perfumarias do Github
+[Customizando o Github](https://medium.com/cristiano-cunha/como-adicionar-descri%C3%A7%C3%A3o-no-perfil-do-github-916dfb6232a1#:~:text=O%20GitHub%20lan%C3%A7ou%20uma%20funcionalidade,usu%C3%A1rio%2C%20no%20meu%20caso%20CristianoRC) - Como deixar seu Github mais **Lindão**!!!
 ## Hospedagem PHP Gratuita
 * [Awardspace](https://www.awardspace.com/) - Para aqueles que não tiverem computador para o desenvolvimento da disciplina, neste site poderá ser criada uma conta e todos as aulas poderão ser realizadas utilizando os recursos gratuitos disponíveis.
 
