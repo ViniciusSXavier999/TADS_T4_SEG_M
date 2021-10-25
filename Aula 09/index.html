@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<!--
+    O Framework Bootstrap trabalha com o conceito de classes CSS
+    Assim, as tags HTML devem utilizar o class="" para aplicar as formatações
+    Veja a documentação para aprender como explorar todos os recursos desse Framework
+    Link: https://getbootstrap.com
+-->
+
+<html lang="pt-br" class="h-100">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Alunos</title>
+
+    <!-- Carregamento do Framework Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body class="d-flex flex-column h-100">
+<main role="main" class="flex-shrink-0">
+    <div class="container">
+        <h1 class="mt-5">Cadastro de Aluno</h1>
+        <p class="lead text-justify">Preencha os campos abaixo.</p>
+
+        <!-- Formulário HTML -->
+        <form name="novo_aluno" action="controller.php" method="post">
+            <!-- formatação de linha do Bootstrap -->
+            <div class="row">
+                <!-- div configurada com espaços pelo Bootstrap -->
+                <div class="col-md-6 mb-3">
+                    <!-- rótulo que fica acima do campo -->
+                    <label for="nome">NOME</label>
+
+                    <!-- campo do formulário com placeholder -->
+                    <input type="text" class="form-control" id="nome" name="nome"
+                           placeholder="Digite o nome completo" value="" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="ra">RA</label>
+                    <input type="text" class="form-control" id="ra" name="ra" placeholder="Digite seu RA" value="">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="curso">CURSO</label>
+                    <select class="form-select d-block w-100" id="curso" name="curso" required>
+                        <option value="">Selecione o Curso</option>
+                        <option value="CC">Ciências da Computação</option>
+                        <option value="SI">Sistemas de Informação</option>
+                        <option value="TADS">Tecnologia em Análise de Sistemas</option>
+                        <option value="TRC">Tecnologia em Redes de Computadores</option>
+                        <option value="TGTI">Tecnologia em Gestão de TI</option>
+                        <option value="TBD">Tecnologia em Banco de Dados</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- campo oculto para ser enviado ao controller -->
+            <input type="hidden" name="operacao" value="novo">
+
+            <!-- botão de enviar o formulário -->
+            <input type="submit" class="btn btn-primary btn-lg btn-block" value="Cadastrar">
+        </form>
+    </div>
+    <br>
+    </form>
+</main>
+</body>
+
+</html>
